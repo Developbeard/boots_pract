@@ -3,11 +3,16 @@
         color:white;
         background: black;
     }
+    
+    .well{
+        background:black;
+        border:3px solid #fff;
+    }
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
     body{
-        color:red;
+        color:blue;
     }
 }
 
@@ -25,6 +30,6 @@
 
 @media (min-width: 1200px) {
     body{
-        color:blue;
+        color:black;
     }
 }
